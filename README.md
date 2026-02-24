@@ -6,10 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/YOUR_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiara-ajobo/)
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/0xAbiara)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wF5H4bWX)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajobotofunmi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAbiara)
 
 </div>
@@ -24,7 +24,7 @@ I'm **Jesutofunmi Christianah Ajobo** (aka **0xAbiara**) — a Smart Contract De
 - 🌱 Always learning — from Solidity internals to cross-chain architecture
 - 💡 Interested in **DeFi protocols**, **on-chain automation**, and **smart contract security**
 - 🤝 Open to collaborations on interesting Web3 projects
-- 📍 Based in **[Your Location]**
+- 📍 Based in **Lagos State, Nigeria**
 
 ---
 
@@ -170,27 +170,14 @@ Key Highlights:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xAbiara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAbiara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbiara&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Build Something Together
 
 *Whether it's a DeFi protocol, a security audit, or a business idea — I'm always open to a good conversation.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiara-ajobo/)
+[![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajobotofunmi@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 
