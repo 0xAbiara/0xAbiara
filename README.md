@@ -297,21 +297,6 @@ Key Highlights:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xAbiara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAbiara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff" height="160"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=0xAbiara&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Build Something Together
