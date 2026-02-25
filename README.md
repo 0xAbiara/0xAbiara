@@ -208,10 +208,16 @@ Key Highlights:
 
 <div align="center">
 
-| 📝 Platform | 🔗 Link |
-|:-----------:|:-------:|
-| <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> | [dev.to/0xabiara](https://dev.to/0xabiara) |
-| <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | [medium.com/@ajobotofunmi](https://medium.com/@ajobotofunmi) |
+### 📝 Recent Articles
+
+| Title | Platform | Topics | Read |
+|:------|:--------:|:------:|:----:|
+| **[Your Article Title]** | Dev.to | Solidity, Smart Contracts | [Link](https://dev.to/0xabiara) |
+| **[Your Article Title]** | Dev.to | Blockchain, Web3 | [Link](https://dev.to/0xabiara) |
+| **[Your Article Title]** | Medium | DeFi, Protocol Design | [Link](https://medium.com/@ajobotofunmi) |
+| **[Your Article Title]** | Medium | Cross-Chain, Chainlink | [Link](https://medium.com/@ajobotofunmi) |
+
+> 📚 More articles on [Dev.to](https://dev.to/0xabiara) · [Medium](https://medium.com/@ajobotofunmi)
 
 </div>
 
