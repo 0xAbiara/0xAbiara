@@ -138,7 +138,7 @@ Key Highlights:
 <td width="50%" valign="top">
 <div align="center">
 
-### 🎲 Provably Fair Raffle
+### 🎲 Raffle Smart Contract
 
 <img src="https://img.icons8.com/color/96/000000/dice.png" width="80"/>
 
