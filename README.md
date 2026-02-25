@@ -68,10 +68,17 @@ I approach blockchain development like engineering critical systems — because 
 <table>
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
 ### 💵 Decentralized Stablecoin Protocol
 
-**MakerDAO-inspired algorithmic stablecoin with overcollateralization and automated liquidations.**
+<img src="https://img.icons8.com/fluency/96/us-dollar-circled.png" width="80"/>
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Decentralized-Stablecoin)
+
+</div>
+
+**Architecture:** MakerDAO-inspired algorithmic stablecoin with overcollateralization and automated liquidations.
 
 ```
 Key Highlights:
@@ -86,14 +93,24 @@ Key Highlights:
 
 **Stack:** `Solidity` `Foundry` `Chainlink` `OpenZeppelin`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Decentralized-Stablecoin)
+**Achievements:**
+- ✅ Algorithmic stability mechanism
+- ✅ Over-collateralization system
+- ✅ Automated liquidation logic
 
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
-### 🔁 Cross-Chain Rebase Token Protocol
+### 🔁 Cross-Chain Rebase Token
 
-**Interest-bearing token that preserves user-specific rates across chains via Chainlink CCIP.**
+<img src="https://img.icons8.com/fluency/96/data-transfer.png" width="80"/>
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Cross-Chain-Rebase-Token)
+
+</div>
+
+**Architecture:** Interest-bearing token that preserves user-specific rates across chains via Chainlink CCIP.
 
 ```
 Key Highlights:
@@ -108,16 +125,27 @@ Key Highlights:
 
 **Stack:** `Solidity` `Foundry` `Chainlink CCIP` `Shell`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Cross-Chain-Rebase-Token)
+**Achievements:**
+- ✅ Seamless cross-chain interest continuity
+- ✅ Custom CCIP TokenPool encoding
+- ✅ Vault collateral system
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
 ### 🎲 Provably Fair Raffle
 
-**On-chain lottery with verifiable randomness and fully automated draws.**
+<img src="https://img.icons8.com/fluency/96/dice.png" width="80"/>
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Raffle-Smart-Contract)
+[![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
+
+</div>
+
+**Architecture:** On-chain lottery with verifiable randomness and fully automated draws.
 
 ```
 Key Highlights:
@@ -131,19 +159,28 @@ Key Highlights:
 
 **Stack:** `Solidity` `Chainlink VRF` `Chainlink Automation` `Foundry`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Raffle-Smart-Contract)
-[![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
+**Achievements:**
+- ✅ Verifiable on-chain randomness
+- ✅ Automated winner selection
+- ✅ Comprehensive test coverage
 
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
-### ⚙️ More Coming Soon...
+### 🔨 More Coming Soon...
+
+<img src="https://img.icons8.com/fluency/96/under-construction.png" width="80"/>
+
+<br/>
 
 *Currently building. Watch this space.*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara)
+[![Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara)
+
+</div>
 
 </td>
 </tr>
@@ -156,10 +193,18 @@ Key Highlights:
 <table>
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
 ### ✈️ ZENDER — Token Airdrop dApp
 
-**Production-ready batch ERC20 distribution platform across Ethereum, Base & Arbitrum.**
+<img src="https://img.icons8.com/fluency/96/sent.png" width="80"/>
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Zender)
+[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://zenderr.netlify.app/)
+
+</div>
+
+**Architecture:** Production-ready batch ERC20 distribution platform across Ethereum, Base & Arbitrum.
 
 ```
 Key Highlights:
@@ -173,15 +218,25 @@ Key Highlights:
 
 **Stack:** `Next.js` `TypeScript` `Wagmi` `Solidity` `RainbowKit`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Zender)
-[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_LINK_HERE)
+**Achievements:**
+- ✅ Multi-chain airdrop in one click
+- ✅ 40% faster via batched contract reads
+- ✅ Production-deployed on Netlify
 
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
 ### 🖼️ NFT Marketplace
 
-**Full-stack decentralized NFT trading platform with real-time blockchain event indexing.**
+<img src="https://img.icons8.com/fluency/96/picture.png" width="80"/>
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/NFT-Marketplace)
+[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://bake-cake-nftmarketplace.netlify.app/)
+
+</div>
+
+**Architecture:** Full-stack decentralized NFT trading platform with real-time blockchain event indexing.
 
 ```
 Key Highlights:
@@ -195,8 +250,10 @@ Key Highlights:
 
 **Stack:** `Next.js` `TypeScript` `Solidity` `PostgreSQL` `GraphQL`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/NFT-Marketplace)
-[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](YOUR_LIVE_LINK_HERE)
+**Achievements:**
+- ✅ Real-time on-chain event indexing
+- ✅ Compliance-ready with Circle API
+- ✅ Full-stack deployed & live
 
 </td>
 </tr>
