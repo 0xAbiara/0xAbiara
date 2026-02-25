@@ -72,9 +72,10 @@ I approach blockchain development like engineering critical systems — because 
 
 ### 💵 Decentralized Stablecoin Protocol
 
-<img src="https://img.icons8.com/fluency/96/us-dollar-circled.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/dollar-coin.png" width="80"/>
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Decentralized-Stablecoin)
+[![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
 
 </div>
 
@@ -104,9 +105,10 @@ Key Highlights:
 
 ### 🔁 Cross-Chain Rebase Token
 
-<img src="https://img.icons8.com/fluency/96/data-transfer.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/data-transfer.png" width="80"/>
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Cross-Chain-Rebase-Token)
+[![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
 
 </div>
 
@@ -138,7 +140,7 @@ Key Highlights:
 
 ### 🎲 Provably Fair Raffle
 
-<img src="https://img.icons8.com/fluency/96/dice.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/dice.png" width="80"/>
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Raffle-Smart-Contract)
 [![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
@@ -170,7 +172,7 @@ Key Highlights:
 
 ### 🔨 More Coming Soon...
 
-<img src="https://img.icons8.com/fluency/96/under-construction.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/under-construction.png" width="80"/>
 
 <br/>
 
@@ -197,7 +199,7 @@ Key Highlights:
 
 ### ✈️ ZENDER — Token Airdrop dApp
 
-<img src="https://img.icons8.com/fluency/96/sent.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/sent.png" width="80"/>
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Zender)
 [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://zenderr.netlify.app/)
@@ -229,7 +231,7 @@ Key Highlights:
 
 ### 🖼️ NFT Marketplace
 
-<img src="https://img.icons8.com/fluency/96/picture.png" width="80"/>
+<img src="https://img.icons8.com/color/96/000000/picture.png" width="80"/>
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/NFT-Marketplace)
 [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://bake-cake-nftmarketplace.netlify.app/)
