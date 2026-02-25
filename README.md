@@ -2,15 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20There!%20I'm%20Jesutofunmi%20%F0%9F%91%8B&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=0xAbiara%20%7C%20Building%20on-chain%2C%20one%20block%20at%20a%20time&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=Smart+Contract+Developer+%F0%9F%94%97;Blockchain+Developer+%E2%9B%93;Business+Developer+%F0%9F%9A%80;Building+the+Decentralized+Future+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=80&lines=Smart+Contract+Developer+%F0%9F%94%97;Full-Stack+Web3+Developer+%F0%9F%8C%90;Business+Developer+%F0%9F%A4%9D;Code+is+law+%E2%80%94+so+the+law+better+be+bulletproof+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiara-ajobo/)
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/0xAbiara)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wF5H4bWX)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajobotofunmi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesutofunmiajobo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAbiara)
+[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
 
 </div>
 
@@ -18,19 +19,17 @@
 
 ## 👩🏾‍💻 About Me
 
-I'm **Jesutofunmi Christianah Ajobo** (aka **0xAbiara**) — a Smart Contract Developer and Blockchain enthusiast passionate about building secure, scalable decentralized systems. I sit at the intersection of **technical development** and **business strategy**, which lets me see both the *how* and the *why* behind the protocols I build.
+I'm **Jesutofunmi Christianah Ajobo** — aka **0xAbiara** — a Solidity smart contract developer building the infrastructure for decentralized finance and Web3 applications. I sit at the intersection of **technical development** and **business strategy**, giving me the rare ability to see both the *how* and the *why* behind every protocol I build.
 
-- 🔭 Currently building and exploring the **DeFi & Web3 security** space
-- 🌱 Always learning — from Solidity internals to cross-chain architecture
-- 💡 Interested in **DeFi protocols**, **on-chain automation**, and **smart contract security**
-- 🤝 Open to collaborations on interesting Web3 projects
-- 📍 Based in **Lagos State, Nigeria**
+I approach blockchain development like engineering critical systems — because that's exactly what they are. Every contract I write goes through rigorous unit, integration, and fuzz testing, security-first architecture, and comprehensive documentation.
 
----
+> *"Code is law — so the law better be bulletproof."*
 
-## 💼 Work Experience
-
-> 🚧 **This section is coming soon** — exciting things in progress!
+- 🔭 Currently building **DeFi protocols** and exploring advanced Solidity patterns
+- 🌱 Deep in **cross-chain infrastructure**, Chainlink CCIP, and L2 ecosystems
+- 🛡️ Security-minded — I don't ship code I wouldn't trust with my own funds
+- 🤝 Open to collaborations on impactful Web3 projects
+- 📍 Lagos, Nigeria
 
 ---
 
@@ -38,20 +37,21 @@ I'm **Jesutofunmi Christianah Ajobo** (aka **0xAbiara**) — a Smart Contract De
 
 <div align="center">
 
-### Blockchain & Smart Contracts
+### Smart Contracts & Blockchain
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 
-### Languages & Dev Tools
+### Full-Stack Web3
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Security & Testing
 
@@ -63,37 +63,61 @@ I'm **Jesutofunmi Christianah Ajobo** (aka **0xAbiara**) — a Smart Contract De
 
 ---
 
-## 🚀 Featured Projects
+## ⛓️ Smart Contract Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💵 DeFi Stablecoin Protocol
+### 💵 Decentralized Stablecoin Protocol
 
-**A decentralized, algorithmically stable USD-pegged token backed by crypto collateral.**
+**MakerDAO-inspired algorithmic stablecoin with overcollateralization and automated liquidations.**
 
 ```
 Key Highlights:
+├─ 200% minimum overcollateralization
 ├─ WETH & WBTC collateral support
 ├─ Chainlink price feed oracles
-├─ Liquidation engine with bonuses
-├─ ReentrancyGuard protection
-├─ 30+ unit tests + fuzz suite
-└─ 95%+ code coverage
+├─ Automated liquidation (10% bonus)
+├─ Health factor monitoring
+├─ Stateful fuzz + invariant testing
+└─ Full Foundry test suite
 ```
 
 **Stack:** `Solidity` `Foundry` `Chainlink` `OpenZeppelin`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Decentralized-Stable-Coin)
-[![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Decentralized-Stablecoin)
 
 </td>
 <td width="50%" valign="top">
 
+### 🔁 Cross-Chain Rebase Token Protocol
+
+**Interest-bearing token that preserves user-specific rates across chains via Chainlink CCIP.**
+
+```
+Key Highlights:
+├─ Ethereum Sepolia ↔ zkSync Sepolia
+├─ Chainlink CCIP custom TokenPool
+├─ Dynamic rebasing with linear accrual
+├─ 18-decimal precision math
+├─ Interest rate continuity cross-chain
+├─ ETH vault: deposit → mint / burn → redeem
+└─ Shell-scripted deployment & testing
+```
+
+**Stack:** `Solidity` `Foundry` `Chainlink CCIP` `Shell`
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Cross-Chain-Rebase-Token)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎲 Provably Fair Raffle
 
-**An on-chain lottery system with verifiable randomness and automated execution.**
+**On-chain lottery with verifiable randomness and fully automated draws.**
 
 ```
 Key Highlights:
@@ -101,54 +125,25 @@ Key Highlights:
 ├─ Chainlink Automation for draws
 ├─ Gas-optimized contract design
 ├─ Event-driven architecture
-├─ Mock framework for testing
+├─ Mock framework for local testing
 └─ Multi-chain deployment ready
 ```
 
 **Stack:** `Solidity` `Chainlink VRF` `Chainlink Automation` `Foundry`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Raffle_Smart_Contract)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Raffle-Smart-Contract)
 [![Testnet](https://img.shields.io/badge/Sepolia_Live-38BDF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🔗 [Your Project 3 Name]
+### ⚙️ More Coming Soon...
 
-**[Short description of what this project does and the problem it solves.]**
+*Currently building. Watch this space.*
 
-```
-Key Highlights:
-├─ [Feature 1]
-├─ [Feature 2]
-├─ [Feature 3]
-└─ [Feature 4]
-```
+<br/>
 
-**Stack:** `Solidity` `[Tool]` `[Tool]`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/YOUR_PROJECT)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ [Your Project 4 Name]
-
-**[Short description of what this project does and the problem it solves.]**
-
-```
-Key Highlights:
-├─ [Feature 1]
-├─ [Feature 2]
-├─ [Feature 3]
-└─ [Feature 4]
-```
-
-**Stack:** `Solidity` `[Tool]` `[Tool]`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/YOUR_PROJECT)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara)
 
 </td>
 </tr>
@@ -156,15 +151,97 @@ Key Highlights:
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🌐 Full-Stack Web3 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ ZENDER — Token Airdrop dApp
+
+**Production-ready batch ERC20 distribution platform across Ethereum, Base & Arbitrum.**
+
+```
+Key Highlights:
+├─ Batch transfers in a single transaction
+├─ Auto approval flow (no manual steps)
+├─ 40% performance boost via batched reads
+├─ Ethereum, Base & Arbitrum support
+├─ Persistent state + real-time tx status
+└─ Responsive gradient UI with Tailwind CSS
+```
+
+**Stack:** `Next.js` `TypeScript` `Wagmi` `Solidity` `RainbowKit`
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/Zender)
+[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_LINK_HERE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ NFT Marketplace
+
+**Full-stack decentralized NFT trading platform with real-time blockchain event indexing.**
+
+```
+Key Highlights:
+├─ List, buy & trade NFTs on-chain
+├─ Rindexer for blockchain event indexing
+├─ PostgreSQL + GraphQL data layer
+├─ Circle API compliance integration
+├─ RainbowKit multi-wallet support
+└─ Netlify (frontend) + Render (backend)
+```
+
+**Stack:** `Next.js` `TypeScript` `Solidity` `PostgreSQL` `GraphQL`
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/0xAbiara/NFT-Marketplace)
+[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](YOUR_LIVE_LINK_HERE)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✍️ Latest Writing
 
 <div align="center">
 
-| 🏅 Achievement | 📅 Date | 🔗 Proof |
-|:--------------|:-------:|:--------:|
-| 📜 **[Certification Name]** — [Issuing Body] | [Month Year] | [View Certificate](#) |
-| 🥇 **[Award or Achievement]** — [Event / Organisation] | [Year] | [View Proof](#) |
-| 🎯 **[Hackathon / Competition]** — [Result] | [Year] | [View Project](#) |
+| 📝 Platform | 🔗 Link |
+|:-----------:|:-------:|
+| <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> | [dev.to/0xabiara](https://dev.to/0xabiara) |
+| <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | [medium.com/@ajobotofunmi](https://medium.com/@ajobotofunmi) |
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏫 Issuer | 📅 Date |
+|:----------------|:---------:|:-------:|
+| 🌐 **Full-Stack Web3 Development** | Cyfrin Updraft | Jan 2026 |
+| 🔒 **Web3 Wallet Security Basics** | Cyfrin Updraft | Feb 2026 |
+| ⛓️ **Blockchain Basics** | Cyfrin Updraft | Aug 2025 |
+| 📝 **Solidity Smart Contract Development** | Cyfrin Updraft | Sep 2024 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xAbiara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAbiara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbiara&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 </div>
 
@@ -174,10 +251,11 @@ Key Highlights:
 
 ### 💬 Let's Build Something Together
 
-*Whether it's a DeFi protocol, a security audit, or a business idea — I'm always open to a good conversation.*
+*DeFi protocol, security research, or a Web3 business idea — I'm always open to a good conversation.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiara-ajobo/)
-[![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajobotofunmi@gmail.com)
+[![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesutofunmiajobo@gmail.com)
+[![Resume](https://img.shields.io/badge/View_Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 
