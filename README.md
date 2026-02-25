@@ -306,7 +306,7 @@ Key Highlights:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbiara&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img src="https://streak-stats.demolab.com/?user=0xAbiara&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 </div>
 
