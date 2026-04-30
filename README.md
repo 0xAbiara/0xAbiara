@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20There!%20I'm%20Jesutofunmi%20%F0%9F%91%8B&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=0xAbiara%20%7C%20Building%20on-chain%2C%20one%20block%20at%20a%20time&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=80&lines=Smart+Contract+Developer+%F0%9F%94%97;Full-Stack+Web3+Developer+%F0%9F%8C%90;Code+is+the+law+%E2%80%94+so+the+law+better+be+bulletproof+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=80&lines=Smart+Contract+Developer+%F0%9F%94%97;Full-Stack+Web3+Developer+%F0%9F%8C%90;CCode+is+the+law+%E2%80%94+so+the+law+better+be+bulletproof+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
