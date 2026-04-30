@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wF5H4bWX)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesutofunmiajobo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAbiara)
-[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18jnxUZLiLZKC0nMX_jKzWNFOcxZABFad/view?usp=sharing)
 
 </div>
 
